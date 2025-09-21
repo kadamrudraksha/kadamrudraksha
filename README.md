@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/assets/github_pfp.gif" height="300" />
+  <img src="https://github.com/omkar-afk/omkar-afk/blob/main/assets/githib_pfp.gif" height="300" />
   
   # Hey, I'm Rudraksha Kadam 👋
   
@@ -60,19 +60,19 @@
 **Tech Stack:** `Next.js` `Gemini AI` `Drizzle ORM` `Clerk`  
 > AI-powered interview practice with real-time feedback, webcam recording, and performance analytics
 > 
-> [🔗 View Project](https://github.com/your-username/project) | [🌐 Live Demo](#)
+> [🔗 View Project](https://github.com/your-username/project) 
 
 ### 🗳️ Polling & Voting System  
 **Tech Stack:** `MERN Stack` `JWT` `MongoDB`  
 > Full-stack polling platform with multiple poll types, secure authentication, and admin controls
 > 
-> [🔗 View Project](https://github.com/your-username/project) | [🌐 Live Demo](#)
+> [🔗 View Project](https://github.com/your-username/project) 
 
 ### 📄 AI PDF Chatbot
 **Tech Stack:** `RAG Architecture` `LangChain` `QdrantDB` `Next.js`  
 > Intelligent document interaction using vector search and semantic retrieval for context-aware responses
 > 
-> [🔗 View Project](https://github.com/your-username/project) | [🌐 Live Demo](#)
+> [🔗 View Project](https://github.com/your-username/project) 
 
 ---
 
