@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/omkar-afk/omkar-afk/blob/main/assets/githib_pfp.gif" height="300" />
   <h1>Hey, I'm Rudraksha Kadam 👋</h1>
-  <h3>Full Stack Developer | SaaS Builder | LeetCode Warrior | AI Enthusiast</h3>
+  <h2>Full Stack Developer| LeetCode Warrior | AI Enthusiast</h2>
 </div>
 
 ---
@@ -9,9 +9,9 @@
 ### 🚀 About Me
 
 - 🌱 Electronics Student turned Full Stack Sorcerer from **PICT, Pune**
-- 💻 MERN Stack Dev | Firebase Enthusiast | AI & SaaS explorer
+- 💻 MERN Stack Dev | AI & SaaS explorer
 - 🧠 1500+ Rated LeetCode Solver (Yes, I breathe problems)
-- 👨‍💻 Ex-Intern @ Zeptic | Problem Setter @ PICT ACM
+- 👨‍💻 Ex-Intern @ Zeptik | Problem Setter @ PICT ACM
 - 📦 Built several real-world SaaS & AI-powered platforms
 
 ---
@@ -20,7 +20,7 @@
 
 #### 💻 Languages & Frameworks:
 `JavaScript` `TypeScript` `Python` `C++` `Java`  
-`React.js` `Next.js` `Node.js` `Express.js` `Flutter`
+`React.js` `Next.js` `Node.js` `Express.js` 
 
 #### 🔧 Tools & Databases:
 `Firebase` `Supabase` `PostgreSQL` `MongoDB` `Redis`  
