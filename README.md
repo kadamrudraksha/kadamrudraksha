@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/assets/github_pfp.gif" height="300" />
+  <img src="https://github.com/omkar-afk/omkar-afk/blob/main/assets/githib_pfp.gif" height="300" />
   
   # Hey, I'm Rudraksha Kadam 👋
   
@@ -11,7 +11,6 @@
     <a href="https://leetcode.com/u/rudraksha3300/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   </p>
   
-  <img src="https://komarev.com/ghpvc/?username=kadamrudraksha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 ---
@@ -60,19 +59,18 @@
 **Tech Stack:** `Next.js` `Gemini AI` `Drizzle ORM` `Clerk`  
 > AI-powered interview practice with real-time feedback, webcam recording, and performance analytics
 > 
-> [🔗 View Project](https://github.com/kadamrudraksha/mock-interview-ai) | [🌐 Live Demo](#)
-
+> [🔗 View Project](https://github.com/kadamrudraksha/mock-interview-ai)
 ### 🗳️ Polling & Voting System  
 **Tech Stack:** `MERN Stack` `JWT` `MongoDB`  
 > Full-stack polling platform with multiple poll types, secure authentication, and admin controls
 > 
-> [🔗 View Project](https://github.com/kadamrudraksha/Polling-App) | [🌐 Live Demo](#)
+> [🔗 View Project](https://github.com/kadamrudraksha/Polling-App) 
 
 ### 📄 AI PDF Chatbot
 **Tech Stack:** `RAG Architecture` `LangChain` `QdrantDB` `Next.js`  
 > Intelligent document interaction using vector search and semantic retrieval for context-aware responses
 > 
-> [🔗 View Project](https://github.com/kadamrudraksha/ai-pdf-rag) | [🌐 Live Demo](#)
+> [🔗 View Project](https://github.com/kadamrudraksha/ai-pdf-rag)
 
 ---
 
