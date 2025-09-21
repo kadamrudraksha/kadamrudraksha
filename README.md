@@ -1,50 +1,130 @@
 <div align="center">
-  <img src="https://github.com/omkar-afk/omkar-afk/blob/main/assets/githib_pfp.gif" height="300" />
-  <h1>Hey, I'm Rudraksha Kadam 👋</h1>
-  <h2>Full Stack Developer| LeetCode Warrior | AI Enthusiast</h2>
+  <img src="https://github.com/your-username/your-username/blob/main/assets/github_pfp.gif" height="300" />
+  
+  # Hey, I'm Rudraksha Kadam 👋
+  
+  ### 🚀 Full Stack Developer | 🧠 LeetCode Warrior | 🤖 AI Enthusiast
+  
+  <p>
+    <a href="https://linkedin.com/in/rudraksha-kadam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:rudrakshakadam04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/your-handle"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🌱 Electronics Student turned Full Stack Sorcerer from **PICT, Pune**
-- 💻 MERN Stack Dev | AI & SaaS explorer
-- 🧠 1500+ Rated LeetCode Solver (Yes, I breathe problems)
-- 👨‍💻 Ex-Intern @ Zeptik | Problem Setter @ PICT ACM
-- 📦 Built several real-world SaaS & AI-powered platforms
-
----
-
-### 🛠️ Tech Arsenal
-
-#### 💻 Languages & Frameworks:
-`JavaScript` `TypeScript` `Python` `C++` `Java`  
-`React.js` `Next.js` `Node.js` `Express.js` 
-
-#### 🔧 Tools & Databases:
-`Firebase` `Supabase` `PostgreSQL` `MongoDB` `Redis`  
-`Tailwind CSS` `Drizzle ORM` `LiveKit` `Git` `VSCode`
+- 🎓 **Electronics & Telecom** student at **PICT, Pune** turned Full Stack Developer
+- 💻 Passionate about **MERN Stack**, **AI/ML**, and **SaaS** development  
+- 🧠 **1495+ LeetCode Rating** - Love solving algorithmic challenges
+- 👨‍💻 Former intern at **Zeptik** & **PICT EduGenie Platform**
+- 📄 **Published researcher** in Springer LNNS on blockchain technology
+- 🎯 Building real-world AI-powered applications and contributing to open source
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rudrakshakadam04&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshakadam04&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakshakadam04&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</p>
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌐 Frontend & Backend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🤖 AI & Emerging Tech
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
 
 ---
 
-### 📬 Let's Connect!
+## 🏆 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rudraksha-kadam)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-handle)  
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrakshakadam04@gmail.com)
+### 🤖 AI Mock Interview Platform
+**Tech Stack:** `Next.js` `Gemini AI` `Drizzle ORM` `Clerk`  
+> AI-powered interview practice with real-time feedback, webcam recording, and performance analytics
+> 
+> [🔗 View Project](https://github.com/your-username/project) | [🌐 Live Demo](#)
+
+### 🗳️ Polling & Voting System  
+**Tech Stack:** `MERN Stack` `JWT` `MongoDB`  
+> Full-stack polling platform with multiple poll types, secure authentication, and admin controls
+> 
+> [🔗 View Project](https://github.com/your-username/project) | [🌐 Live Demo](#)
+
+### 📄 AI PDF Chatbot
+**Tech Stack:** `RAG Architecture` `LangChain` `QdrantDB` `Next.js`  
+> Intelligent document interaction using vector search and semantic retrieval for context-aware responses
+> 
+> [🔗 View Project](https://github.com/your-username/project) | [🌐 Live Demo](#)
 
 ---
 
-### 😎 Fun Fact
-> I might be from ENTC, but I probably code more than half the CS folks out there 💅  
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
+## 🏅 Achievements & Recognition
+
+- 🔥 **1495+ LeetCode Rating** - Consistent problem solver with 300+ problems solved
+- 📄 **Published Researcher** - Springer LNNS (ICCCN 2025) on blockchain technology  
+- 🎪 **Pulzion 2024 Frontend Team** - Contributed to major tech fest platform
+- 🏢 **2x Software Development Intern** - Zeptik & PICT EduGenie Platform
+- 🎯 **CGPA 8.32** - Electronics & Telecommunication Engineering, PICT
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Building AI-powered SaaS applications with modern tech stack
+- 🌱 Exploring advanced system design and scalable architecture patterns  
+- 💡 Research in blockchain integration with AI/IoT systems
+- 👨‍💻 Contributing to open source projects and mentoring juniors
+- 🚀 Preparing for full-time opportunities in product-based companies
+
+---
+
+## 💭 Fun Fact
+
+> *"I might be from ENTC background, but I probably spend more time debugging JavaScript than debugging circuits! 💻✨"*
+
+---
+
+<div align="center">
+  <h3>💬 Let's Connect and Build Something Amazing Together!</h3>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudraksha-kadam)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrakshakadam04@gmail.com)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-handle)
+  
+</div>
