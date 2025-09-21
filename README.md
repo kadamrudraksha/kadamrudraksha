@@ -1,16 +1,17 @@
 <div align="center">
-  <img src="https://github.com/omkar-afk/omkar-afk/blob/main/assets/githib_pfp.gif" height="300" />
+  <img src="https://github.com/your-username/your-username/blob/main/assets/github_pfp.gif" height="300" />
   
   # Hey, I'm Rudraksha Kadam 👋
   
   ### 🚀 Full Stack Developer | 🧠 LeetCode Warrior | 🤖 AI Enthusiast
   
   <p>
-    <a href="[https://linkedin.com/in/rudraksha-kadam](https://www.linkedin.com/in/rudraksha-kadam-6398b3218/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/rudraksha-kadam-6398b3218/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:rudrakshakadam04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="[https://leetcode.com/your-handl](https://leetcode.com/u/rudraksha3300/)e"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+    <a href="https://leetcode.com/u/rudraksha3300/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   </p>
   
+  <img src="https://komarev.com/ghpvc/?username=kadamrudraksha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 
 ---
@@ -59,27 +60,44 @@
 **Tech Stack:** `Next.js` `Gemini AI` `Drizzle ORM` `Clerk`  
 > AI-powered interview practice with real-time feedback, webcam recording, and performance analytics
 > 
-> [🔗 View Project](https://github.com/your-username/project) 
+> [🔗 View Project](https://github.com/kadamrudraksha/mock-interview-ai) | [🌐 Live Demo](#)
 
 ### 🗳️ Polling & Voting System  
 **Tech Stack:** `MERN Stack` `JWT` `MongoDB`  
 > Full-stack polling platform with multiple poll types, secure authentication, and admin controls
 > 
-> [🔗 View Project](https://github.com/your-username/project) 
+> [🔗 View Project](https://github.com/kadamrudraksha/Polling-App) | [🌐 Live Demo](#)
 
 ### 📄 AI PDF Chatbot
 **Tech Stack:** `RAG Architecture` `LangChain` `QdrantDB` `Next.js`  
 > Intelligent document interaction using vector search and semantic retrieval for context-aware responses
 > 
-> [🔗 View Project](https://github.com/your-username/project) 
+> [🔗 View Project](https://github.com/kadamrudraksha/ai-pdf-rag) | [🌐 Live Demo](#)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kadamrudraksha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadamrudraksha&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadamrudraksha&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kadamrudraksha&theme=react-dark&hide_border=true" />
+</div>
 
 ---
 
 ## 🏅 Achievements & Recognition
 
 - 🔥 **1495+ LeetCode Rating** - Consistent problem solver with 300+ problems solved
-- 📄 **Published Researcher** - Springer LNNS (ICCCN 2025) on blockchain technology  
-- 🎪 **Pulzion 2024 Frontend Team** - Contributed to major tech fest platform
+- 📄 **Published Researcher** - [Springer LNNS (ICCCN 2025)](https://drive.google.com/file/d/17Gdl5ISnuK6l-wNki_oHhtQC5-HERVwa/view) on blockchain technology  
+- 🎪 **Pulzion 2024 Frontend Team** - [Certificate](https://drive.google.com/file/d/1L9Z-qFvkNXrH2PT1GRBBBPeuN7q9aY24/view) - Contributed to major tech fest platform
 - 🏢 **2x Software Development Intern** - Zeptik & PICT EduGenie Platform
 - 🎯 **CGPA 8.32** - Electronics & Telecommunication Engineering, PICT
 
@@ -104,9 +122,9 @@
 <div align="center">
   <h3>💬 Let's Connect and Build Something Amazing Together!</h3>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudraksha-kadam)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/kadamrudraksha)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksha-kadam-6398b3218/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrakshakadam04@gmail.com)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-handle)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rudraksha3300/)
   
 </div>
