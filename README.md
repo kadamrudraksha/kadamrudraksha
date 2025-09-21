@@ -6,9 +6,9 @@
   ### 🚀 Full Stack Developer | 🧠 LeetCode Warrior | 🤖 AI Enthusiast
   
   <p>
-    <a href="https://linkedin.com/in/rudraksha-kadam"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="[https://linkedin.com/in/rudraksha-kadam](https://www.linkedin.com/in/rudraksha-kadam-6398b3218/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:rudrakshakadam04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://leetcode.com/your-handle"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+    <a href="[https://leetcode.com/your-handl](https://leetcode.com/u/rudraksha3300/)e"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   </p>
   
 </div>
