@@ -19,7 +19,7 @@
 
 - 🎓 **Electronics & Telecom** student at **PICT, Pune** turned Full Stack Developer
 - 💻 Passionate about **MERN Stack**, **AI/ML**, and **SaaS** development  
-- 🧠 **1495+ LeetCode Rating** - Love solving algorithmic challenges
+- 🧠 **1500+ LeetCode Rating** - Love solving algorithmic challenges
 - 👨‍💻 Former intern at **Zeptik** & **PICT EduGenie Platform**
 - 📄 **Published researcher** in Springer LNNS on blockchain technology
 - 🎯 Building real-world AI-powered applications and contributing to open source
