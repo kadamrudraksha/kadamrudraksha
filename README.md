@@ -90,7 +90,7 @@
 
 ## 🏅 Achievements & Recognition
 
-- 🔥 **1495+ LeetCode Rating** - Consistent problem solver with 300+ problems solved
+- 🔥 **1500+ LeetCode Rating** - Consistent problem solver with 300+ problems solved
 - 📄 **Published Researcher** - [Springer LNNS (ICCCN 2025)](https://drive.google.com/file/d/17Gdl5ISnuK6l-wNki_oHhtQC5-HERVwa/view) on blockchain technology  
 - 🎪 **Pulzion 2024 Frontend Team** - [Certificate](https://drive.google.com/file/d/1L9Z-qFvkNXrH2PT1GRBBBPeuN7q9aY24/view) - Contributed to major tech fest platform
 - 🏢 **2x Software Development Intern** - Zeptik & PICT EduGenie Platform
