@@ -60,11 +60,11 @@
 > AI-powered interview practice with real-time feedback, webcam recording, and performance analytics
 > 
 > [🔗 View Project](https://github.com/kadamrudraksha/mock-interview-ai)
-### 🗳️ Polling & Voting System  
-**Tech Stack:** `MERN Stack` `JWT` `MongoDB`  
-> Full-stack polling platform with multiple poll types, secure authentication, and admin controls
+### 🗳️ AI Invoice Generator 
+**Tech Stack:** `MERN Stack` `JWT` `MongoDB` `Gemini AI`  
+>  AI-powered invoice generation platform built with the MERN stack and Google Gemini AI
 > 
-> [🔗 View Project](https://github.com/kadamrudraksha/Polling-App) 
+> [🔗 View Project](https://github.com/kadamrudraksha/ai-invoive-genrator) 
 
 ### 📄 AI PDF Chatbot
 **Tech Stack:** `RAG Architecture` `LangChain` `QdrantDB` `Next.js`  
